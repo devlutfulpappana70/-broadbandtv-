@@ -1,0 +1,679 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-09-10 01:29+0600\n"
+"PO-Revision-Date: 2022-05-15 23:11+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.3.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+
+#: 404.php:18
+msgid "Oops! Page Not found."
+msgstr ""
+
+#: 404.php:19
+msgid "Back To Home Page"
+msgstr ""
+
+#: comments.php:34 post-formats/content-audio.php:48
+#: post-formats/content-audio.php:122 post-formats/content-gallery.php:65
+#: post-formats/content-gallery.php:156 post-formats/content-image.php:44
+#: post-formats/content-image.php:119 post-formats/content-search.php:44
+#: post-formats/content-search.php:119 post-formats/content-video.php:54
+#: post-formats/content-video.php:136 post-formats/content.php:44
+#: post-formats/content.php:119
+msgid "Comments"
+msgstr ""
+
+#: comments.php:34
+msgid " Comment "
+msgstr ""
+
+#: comments.php:60
+msgid "&larr; Older "
+msgstr ""
+
+#: comments.php:63
+msgid "Newer &rarr;"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:241 inc/classes/class-navwalker.php:365
+msgid "Home"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:244
+msgid "Browse:"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:247
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:248
+msgid "Archives"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:250
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:254
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:256
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/classes/class-breadcrumb.php:258
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:340
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:341
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:345
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:346
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:398
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:399
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:400
+#: inc/classes/class-tgm-plugin-activation.php:3311
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:401
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:403
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:405
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. Please "
+"update the plugin."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:407
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:408
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:409
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:410
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:617
+msgid "Update Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:735
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1042
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug and "
+"renaming did not work."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1042
+#: inc/classes/class-tgm-plugin-activation.php:1052
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin according "
+"to the WordPress guidelines."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:1052
+msgid ""
+"The remote plugin package consists of more than one file, but the files are not "
+"packaged in a folder."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2112
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2421
+msgid "Required"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2424
+msgid "Recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2440
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2443
+msgid "External Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2446
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2463
+msgid "Not Installed"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2467
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2469
+msgid "Active"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2475
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2478
+msgid "Requires Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2481
+msgid "Update recommended"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2638
+msgid "Installed version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2646
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2658
+msgid "Available version:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2681
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2695
+msgid "Plugin"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2696
+msgid "Source"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2697
+msgid "Type"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2701
+msgid "Version"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2702
+msgid "Status"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2751
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2756
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2762
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2834
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2867
+msgid "Install"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2873
+msgid "Update"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2876
+msgid "Activate"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2907
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2909
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2950
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:2952
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3059
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3085
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3310
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3655
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3658
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3660
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3664
+msgid ""
+"The installation and activation process is starting. This process may take a while "
+"on some hosts, so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3666
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3667
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3669
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3672
+msgid ""
+"The installation process is starting. This process may take a while on some hosts, "
+"so please be patient."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3674
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3675
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3677
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3682
+msgid "Show Details"
+msgstr ""
+
+#: inc/classes/class-tgm-plugin-activation.php:3682
+msgid "Hide Details"
+msgstr ""
+
+#: inc/layouts/telnet-breadcrumb.php:29
+msgid "Search Results for : "
+msgstr ""
+
+#: inc/layouts/telnet-breadcrumb.php:31
+msgid "Page not Found"
+msgstr ""
+
+#: inc/layouts/telnet-breadcrumb.php:35
+msgid "Product Details"
+msgstr ""
+
+#: inc/required-plugin.php:9
+msgid "Telnet Core"
+msgstr ""
+
+#: inc/required-plugin.php:18
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: inc/required-plugin.php:23
+msgid "Envato Market"
+msgstr ""
+
+#: inc/required-plugin.php:30
+msgid "WP Classic Editor"
+msgstr ""
+
+#: inc/required-plugin.php:35
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/required-plugin.php:40
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/required-plugin.php:45
+msgid "SVG Support"
+msgstr ""
+
+#: inc/required-plugin.php:50
+msgid "WPC Smart Wishlist for WooCommerce"
+msgstr ""
+
+#: inc/required-plugin.php:55
+msgid "Additional Variation Images Gallery for WooCommerce"
+msgstr ""
+
+#: inc/required-plugin.php:60
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/telnet-after-setup.php:48
+msgid "Main Menu"
+msgstr ""
+
+#: inc/telnet-comment.php:67
+msgid "Send Message"
+msgstr ""
+
+#: inc/telnet-comment.php:93
+msgid "Reply"
+msgstr ""
+
+#: inc/telnet-functions.php:34
+msgid "Tags:"
+msgstr ""
+
+#: inc/telnet-functions.php:73
+msgid "Image Alt Text"
+msgstr ""
+
+#: inc/telnet-functions.php:358 inc/telnet-functions.php:399
+msgid "Categories"
+msgstr ""
+
+#: inc/telnet-register-widgets.php:14
+msgid "Blog Sidebar"
+msgstr ""
+
+#: inc/telnet-register-widgets.php:25
+msgid "Product Sidebar"
+msgstr ""
+
+#: inc/telnet-register-widgets.php:39 inc/telnet-register-widgets.php:41
+#, php-format
+msgid "Footer %1$s"
+msgstr ""
+
+#: inc/telnet-search-widget.php:15 inc/telnet-search-widget.php:39
+msgid "Search..."
+msgstr ""
+
+#: inc/woocommerce/telnet-woocommerce.php:23
+msgid "Add to cart!"
+msgstr ""
+
+#: inc/woocommerce/telnet-woocommerce.php:23
+msgid "Add to cart"
+msgstr ""
+
+#: inc/woocommerce/telnet-woocommerce.php:43
+msgid "Sell"
+msgstr ""
+
+#: inc/woocommerce/telnet-woocommerce.php:259
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/woocommerce/woo-mini-cart.php:11
+msgid "Cart Items"
+msgstr ""
+
+#: post-formats/content-audio.php:46 post-formats/content-audio.php:120
+#: post-formats/content-gallery.php:63 post-formats/content-gallery.php:154
+#: post-formats/content-image.php:42 post-formats/content-image.php:117
+#: post-formats/content-search.php:42 post-formats/content-search.php:117
+#: post-formats/content-video.php:52 post-formats/content-video.php:134
+#: post-formats/content.php:42 post-formats/content.php:117
+msgid "Comment"
+msgstr ""
+
+#: post-formats/content-audio.php:87 post-formats/content-gallery.php:104
+#: post-formats/content-image.php:83 post-formats/content-page.php:13
+#: post-formats/content-search.php:83 post-formats/content-video.php:93
+#: post-formats/content.php:83
+msgid "Pages:"
+msgstr ""
+
+#: post-formats/content-audio.php:146 post-formats/content-gallery.php:180
+#: post-formats/content-image.php:143 post-formats/content-search.php:143
+#: post-formats/content-video.php:160 post-formats/content.php:143
+msgid "READ MORE"
+msgstr ""
+
+#: post-formats/content-none.php:24
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: post-formats/content-page.php:17
+msgid "Page"
+msgstr ""
+
+#: post-formats/content-related-post.php:13
+msgid "Previous Post"
+msgstr ""
+
+#: post-formats/content-related-post.php:18
+msgid "NEXT POST"
+msgstr ""
+
+#: woocommerce/cart/cart.php:97
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:150 woocommerce/cart/mini-cart.php:82
+#, php-format
+msgid "Remove %s from cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:65 woocommerce/global/quantity-input.php:24
+#: woocommerce/wishlist-view.php:57
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:29
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:24 woocommerce/global/quantity-input.php:35
+#, php-format
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:64
+msgid "Add a Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:65
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:76
+msgid "Name"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:83
+msgid "Email"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Post Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:96
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:101
+msgid "Your Rating:"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:103
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:105
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:106
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:108
+msgid "Very poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:117
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product/tabs/additional-information.php:25
+msgid "Additional information"
+msgstr ""
+
+#: woocommerce/single-product/tabs/description.php:25
+msgid "Description"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:37
+msgid "Product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:46
+msgid "Unit price"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:68
+msgid "Stock status"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:90
+msgid "Arrange"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:159 woocommerce/wishlist-view.php:298
+msgid "Remove this product"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:159
+msgid "Remove"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:208
+msgid "Out of stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:208
+msgid "In Stock"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:229
+#, php-format
+msgid "Added on: %s"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:281
+msgid "Move to another list &rsaquo;"
+msgstr ""
+
+#: woocommerce/wishlist-view.php:318
+msgid "No products added to the wishlist"
+msgstr ""
