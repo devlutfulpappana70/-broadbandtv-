@@ -1,0 +1,262 @@
+@font-face {
+    font-family: "flaticon_tna-icon";
+    src: url("../fonts/flaticon_tna-icon.ttf?023f9c9fc6c9c63efee6b592430d61ba") format("truetype"),
+url("../fonts/flaticon_tna-icon.woff?023f9c9fc6c9c63efee6b592430d61ba") format("woff"),
+url("../fonts/flaticon_tna-icon.woff2?023f9c9fc6c9c63efee6b592430d61ba") format("woff2"),
+url("../fonts/flaticon_tna-icon.eot?023f9c9fc6c9c63efee6b592430d61ba#iefix") format("embedded-opentype"),
+url("../fonts/flaticon_tna-icon.svg?023f9c9fc6c9c63efee6b592430d61ba#flaticon_tna-icon") format("svg");
+}
+
+i[class^="flaticon_3-"]:before,
+i[class*=" flaticon_3-"]:before {
+    font-family: flaticon_tna-icon !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+
+.flaticon_3-laptop:before {
+    content: "\f101";
+}
+.flaticon_3-long-arrow-pointing-to-left:before {
+    content: "\f102";
+}
+.flaticon_3-straight-right-arrow:before {
+    content: "\f103";
+}
+.flaticon_3-tick-inside-circle:before {
+    content: "\f104";
+}
+.flaticon_3-tablet-and-laptop:before {
+    content: "\f105";
+}
+.flaticon_3-viber:before {
+    content: "\f106";
+}
+.flaticon_3-quotation:before {
+    content: "\f107";
+}
+.flaticon_3-left-arrow:before {
+    content: "\f108";
+}
+.flaticon_3-right-arrow:before {
+    content: "\f109";
+}
+.flaticon_3-right-arrow-1:before {
+    content: "\f10a";
+}
+.flaticon_3-diagonal-arrow:before {
+    content: "\f10b";
+}
+.flaticon_3-arrow:before {
+    content: "\f10c";
+}
+.flaticon_3-next:before {
+    content: "\f10d";
+}
+.flaticon_3-laptop-1:before {
+    content: "\f10e";
+}
+.flaticon_3-group:before {
+    content: "\f10f";
+}
+.flaticon_3-wifi:before {
+    content: "\f110";
+}
+.flaticon_3-checked:before {
+    content: "\f111";
+}
+.flaticon_3-responsive:before {
+    content: "\f112";
+}
+.flaticon_3-customer-service:before {
+    content: "\f113";
+}
+.flaticon_3-home-automation:before {
+    content: "\f114";
+}
+.flaticon_3-cyber-security:before {
+    content: "\f115";
+}
+.flaticon_3-responsive-1:before {
+    content: "\f116";
+}
+.flaticon_3-uhd:before {
+    content: "\f117";
+}
+.flaticon_3-hd:before {
+    content: "\f118";
+}
+.flaticon_3-tv:before {
+    content: "\f119";
+}
+.flaticon_3-download:before {
+    content: "\f11a";
+}
+.flaticon_3-television:before {
+    content: "\f11b";
+}
+.flaticon_3-tv-box:before {
+    content: "\f11c";
+}
+.flaticon_3-world:before {
+    content: "\f11d";
+}
+.flaticon_3-best-price:before {
+    content: "\f11e";
+}
+.flaticon_3-wifi-router:before {
+    content: "\f11f";
+}
+.flaticon_3-wifi-router-1:before {
+    content: "\f120";
+}
+.flaticon_3-cyber-security-1:before {
+    content: "\f121";
+}
+.flaticon_3-check:before {
+    content: "\f122";
+}
+.flaticon_3-router:before {
+    content: "\f123";
+}
+.flaticon_3-right-arrow-2:before {
+    content: "\f124";
+}
+.flaticon_3-next-1:before {
+    content: "\f125";
+}
+.flaticon_3-smart-tv:before {
+    content: "\f126";
+}
+.flaticon_3-smart-tv-1:before {
+    content: "\f127";
+}
+.flaticon_3-comment:before {
+    content: "\f128";
+}
+.flaticon_3-home:before {
+    content: "\f129";
+}
+.flaticon_3-watch-tv:before {
+    content: "\f12a";
+}
+.flaticon_3-integration:before {
+    content: "\f12b";
+}
+.flaticon_3-wifi-signal:before {
+    content: "\f12c";
+}
+.flaticon_3-swipe-right:before {
+    content: "\f12d";
+}
+.flaticon_3-global-network:before {
+    content: "\f12e";
+}
+.flaticon_3-4k:before {
+    content: "\f12f";
+}
+.flaticon_3-quote:before {
+    content: "\f130";
+}
+.flaticon_3-8k:before {
+    content: "\f131";
+}
+.flaticon_3-resize:before {
+    content: "\f132";
+}
+.flaticon_3-cyber-security-2:before {
+    content: "\f133";
+}
+.flaticon_3-check-mark:before {
+    content: "\f134";
+}
+.flaticon_3-arrow-1:before {
+    content: "\f135";
+}
+.flaticon_3-twitter:before {
+    content: "\f136";
+}
+.flaticon_3-save:before {
+    content: "\f137";
+}
+.flaticon_3-right-arrow-3:before {
+    content: "\f138";
+}
+.flaticon_3-smart-tv-2:before {
+    content: "\f139";
+}
+.flaticon_3-wifi-1:before {
+    content: "\f13a";
+}
+.flaticon_3-up-right-arrow:before {
+    content: "\f13b";
+}
+.flaticon_3-smart-tv-3:before {
+    content: "\f13c";
+}
+.flaticon_3-television-1:before {
+    content: "\f13d";
+}
+.flaticon_3-selfie:before {
+    content: "\f13e";
+}
+.flaticon_3-right-arrow-4:before {
+    content: "\f13f";
+}
+.flaticon_3-tv-monitor:before {
+    content: "\f140";
+}
+.flaticon_3-turn-right:before {
+    content: "\f141";
+}
+.flaticon_3-router-1:before {
+    content: "\f142";
+}
+.flaticon_3-support:before {
+    content: "\f143";
+}
+.flaticon_3-bandwidth:before {
+    content: "\f144";
+}
+.flaticon_3-smart-tv-4:before {
+    content: "\f145";
+}
+.flaticon_3-download-1:before {
+    content: "\f146";
+}
+.flaticon_3-right:before {
+    content: "\f147";
+}
+.flaticon_3-slide:before {
+    content: "\f148";
+}
+.flaticon_3-left:before {
+    content: "\f149";
+}
+.flaticon_3-smart-tv-5:before {
+    content: "\f14a";
+}
+.flaticon_3-review:before {
+    content: "\f14b";
+}
+.flaticon_3-router-2:before {
+    content: "\f14c";
+}
+.flaticon_3-remote-control:before {
+    content: "\f14d";
+}
+.flaticon_3-arrow-2:before {
+    content: "\f14e";
+}
+.flaticon_3-arrow-3:before {
+    content: "\f14f";
+}
+.flaticon_3-arrow-4:before {
+    content: "\f150";
+}

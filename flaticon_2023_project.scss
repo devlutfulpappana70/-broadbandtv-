@@ -1,0 +1,273 @@
+$flaticon_2023_project-font: "flaticon_2023_project";
+
+@font-face {
+    font-family: $flaticon_2023_project-font;
+    src: url("./flaticon_2023_project.ttf?e7a9ccb097f34e9c2476bfc2c4a94843") format("truetype"),
+url("./flaticon_2023_project.woff?e7a9ccb097f34e9c2476bfc2c4a94843") format("woff"),
+url("./flaticon_2023_project.woff2?e7a9ccb097f34e9c2476bfc2c4a94843") format("woff2"),
+url("./flaticon_2023_project.eot?e7a9ccb097f34e9c2476bfc2c4a94843#iefix") format("embedded-opentype"),
+url("./flaticon_2023_project.svg?e7a9ccb097f34e9c2476bfc2c4a94843#flaticon_2023_project") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon_2023_project !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon_2023_project-map: (
+    "shopping-bag": "\f101",
+    "vision": "\f102",
+    "coding": "\f103",
+    "idea": "\f104",
+    "artificial-intelligence": "\f105",
+    "artificial-intelligence-1": "\f106",
+    "4k": "\f107",
+    "save": "\f108",
+    "broadcast": "\f109",
+    "broadcast-1": "\f10a",
+    "artificial-intelligence-2": "\f10b",
+    "laptop": "\f10c",
+    "4k-1": "\f10d",
+    "tablet": "\f10e",
+    "speed": "\f10f",
+    "logo": "\f110",
+    "speedometer": "\f111",
+    "high-speed": "\f112",
+    "television": "\f113",
+    "connection": "\f114",
+    "workers": "\f115",
+    "technical-support": "\f116",
+    "advanced": "\f117",
+    "rating": "\f118",
+    "earth-grid": "\f119",
+    "brand": "\f11a",
+    "support": "\f11b",
+    "broadcast-3": "\f11c",
+    "worker": "\f11d",
+    "team": "\f11e",
+    "networking": "\f11f",
+    "settings": "\f120",
+    "star": "\f121",
+    "motivation": "\f122",
+    "start-up": "\f123",
+    "discover": "\f124",
+    "live-streaming": "\f125",
+    "play-button": "\f126",
+    "maintenance": "\f127",
+    "analytics": "\f128",
+    "management": "\f129",
+    "right-arrow": "\f12a",
+    "house": "\f12b",
+    "right-arrow-1": "\f12c",
+    "arrow": "\f12d",
+    "helmet": "\f12e",
+    "profit": "\f12f",
+    "growth-graph": "\f130",
+    "engineering": "\f131",
+    "surf": "\f132",
+    "satellite-dish": "\f133",
+    "design-thinking": "\f134",
+    "phone": "\f135",
+    "search": "\f136",
+    "brain": "\f137",
+    "security": "\f138",
+    "brain-1": "\f139",
+    "chip": "\f13a",
+    "bulb": "\f13b",
+    "broadcast-4": "\f13c",
+    "chatting": "\f13d",
+    "right-chevron": "\f13e",
+);
+
+.flaticon-shopping-bag:before {
+    content: map-get($flaticon_2023_project-map, "shopping-bag");
+}
+.flaticon-vision:before {
+    content: map-get($flaticon_2023_project-map, "vision");
+}
+.flaticon-coding:before {
+    content: map-get($flaticon_2023_project-map, "coding");
+}
+.flaticon-idea:before {
+    content: map-get($flaticon_2023_project-map, "idea");
+}
+.flaticon-artificial-intelligence:before {
+    content: map-get($flaticon_2023_project-map, "artificial-intelligence");
+}
+.flaticon-artificial-intelligence-1:before {
+    content: map-get($flaticon_2023_project-map, "artificial-intelligence-1");
+}
+.flaticon-4k:before {
+    content: map-get($flaticon_2023_project-map, "4k");
+}
+.flaticon-save:before {
+    content: map-get($flaticon_2023_project-map, "save");
+}
+.flaticon-broadcast:before {
+    content: map-get($flaticon_2023_project-map, "broadcast");
+}
+.flaticon-broadcast-1:before {
+    content: map-get($flaticon_2023_project-map, "broadcast-1");
+}
+.flaticon-artificial-intelligence-2:before {
+    content: map-get($flaticon_2023_project-map, "artificial-intelligence-2");
+}
+.flaticon-laptop:before {
+    content: map-get($flaticon_2023_project-map, "laptop");
+}
+.flaticon-4k-1:before {
+    content: map-get($flaticon_2023_project-map, "4k-1");
+}
+.flaticon-tablet:before {
+    content: map-get($flaticon_2023_project-map, "tablet");
+}
+.flaticon-speed:before {
+    content: map-get($flaticon_2023_project-map, "speed");
+}
+.flaticon-logo:before {
+    content: map-get($flaticon_2023_project-map, "logo");
+}
+.flaticon-speedometer:before {
+    content: map-get($flaticon_2023_project-map, "speedometer");
+}
+.flaticon-high-speed:before {
+    content: map-get($flaticon_2023_project-map, "high-speed");
+}
+.flaticon-television:before {
+    content: map-get($flaticon_2023_project-map, "television");
+}
+.flaticon-connection:before {
+    content: map-get($flaticon_2023_project-map, "connection");
+}
+.flaticon-workers:before {
+    content: map-get($flaticon_2023_project-map, "workers");
+}
+.flaticon-technical-support:before {
+    content: map-get($flaticon_2023_project-map, "technical-support");
+}
+.flaticon-advanced:before {
+    content: map-get($flaticon_2023_project-map, "advanced");
+}
+.flaticon-rating:before {
+    content: map-get($flaticon_2023_project-map, "rating");
+}
+.flaticon-earth-grid:before {
+    content: map-get($flaticon_2023_project-map, "earth-grid");
+}
+.flaticon-brand:before {
+    content: map-get($flaticon_2023_project-map, "brand");
+}
+.flaticon-support:before {
+    content: map-get($flaticon_2023_project-map, "support");
+}
+.flaticon-broadcast-3:before {
+    content: map-get($flaticon_2023_project-map, "broadcast-3");
+}
+.flaticon-worker:before {
+    content: map-get($flaticon_2023_project-map, "worker");
+}
+.flaticon-team:before {
+    content: map-get($flaticon_2023_project-map, "team");
+}
+.flaticon-networking:before {
+    content: map-get($flaticon_2023_project-map, "networking");
+}
+.flaticon-settings:before {
+    content: map-get($flaticon_2023_project-map, "settings");
+}
+.flaticon-star:before {
+    content: map-get($flaticon_2023_project-map, "star");
+}
+.flaticon-motivation:before {
+    content: map-get($flaticon_2023_project-map, "motivation");
+}
+.flaticon-start-up:before {
+    content: map-get($flaticon_2023_project-map, "start-up");
+}
+.flaticon-discover:before {
+    content: map-get($flaticon_2023_project-map, "discover");
+}
+.flaticon-live-streaming:before {
+    content: map-get($flaticon_2023_project-map, "live-streaming");
+}
+.flaticon-play-button:before {
+    content: map-get($flaticon_2023_project-map, "play-button");
+}
+.flaticon-maintenance:before {
+    content: map-get($flaticon_2023_project-map, "maintenance");
+}
+.flaticon-analytics:before {
+    content: map-get($flaticon_2023_project-map, "analytics");
+}
+.flaticon-management:before {
+    content: map-get($flaticon_2023_project-map, "management");
+}
+.flaticon-right-arrow:before {
+    content: map-get($flaticon_2023_project-map, "right-arrow");
+}
+.flaticon-house:before {
+    content: map-get($flaticon_2023_project-map, "house");
+}
+.flaticon-right-arrow-1:before {
+    content: map-get($flaticon_2023_project-map, "right-arrow-1");
+}
+.flaticon-arrow:before {
+    content: map-get($flaticon_2023_project-map, "arrow");
+}
+.flaticon-helmet:before {
+    content: map-get($flaticon_2023_project-map, "helmet");
+}
+.flaticon-profit:before {
+    content: map-get($flaticon_2023_project-map, "profit");
+}
+.flaticon-growth-graph:before {
+    content: map-get($flaticon_2023_project-map, "growth-graph");
+}
+.flaticon-engineering:before {
+    content: map-get($flaticon_2023_project-map, "engineering");
+}
+.flaticon-surf:before {
+    content: map-get($flaticon_2023_project-map, "surf");
+}
+.flaticon-satellite-dish:before {
+    content: map-get($flaticon_2023_project-map, "satellite-dish");
+}
+.flaticon-design-thinking:before {
+    content: map-get($flaticon_2023_project-map, "design-thinking");
+}
+.flaticon-phone:before {
+    content: map-get($flaticon_2023_project-map, "phone");
+}
+.flaticon-search:before {
+    content: map-get($flaticon_2023_project-map, "search");
+}
+.flaticon-brain:before {
+    content: map-get($flaticon_2023_project-map, "brain");
+}
+.flaticon-security:before {
+    content: map-get($flaticon_2023_project-map, "security");
+}
+.flaticon-brain-1:before {
+    content: map-get($flaticon_2023_project-map, "brain-1");
+}
+.flaticon-chip:before {
+    content: map-get($flaticon_2023_project-map, "chip");
+}
+.flaticon-bulb:before {
+    content: map-get($flaticon_2023_project-map, "bulb");
+}
+.flaticon-broadcast-4:before {
+    content: map-get($flaticon_2023_project-map, "broadcast-4");
+}
+.flaticon-chatting:before {
+    content: map-get($flaticon_2023_project-map, "chatting");
+}
+.flaticon-right-chevron:before {
+    content: map-get($flaticon_2023_project-map, "right-chevron");
+}
